@@ -1,1 +1,1 @@
-# Codeclub Code Samples
+# 코드클럽 샘플 코드
